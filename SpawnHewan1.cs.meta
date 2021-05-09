@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b143ced8bf7a5a448d1c38edabcd60c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - beruang: {instanceID: 0}
+  - rusa: {instanceID: 0}
+  - serigala: {instanceID: 0}
+  - buaya: {instanceID: 0}
+  - kepiting: {instanceID: 0}
+  - salamander: {instanceID: 0}
+  - babi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
